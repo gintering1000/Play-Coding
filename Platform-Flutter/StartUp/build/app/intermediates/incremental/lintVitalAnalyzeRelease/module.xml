@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/master/Library/Mobile Documents/com~apple~CloudDocs/Workspace/Training-Coding-Platform/Platform-Prototype/Flutter-001/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.2.0"
+    buildFolder="/Users/master/Library/Mobile Documents/com~apple~CloudDocs/Workspace/Training-Coding-Platform/Platform-Prototype/Flutter-001/build/app"
+    bootClassPath="/opt/homebrew/share/android-commandlinetools/platforms/android-33/android.jar:/opt/homebrew/share/android-commandlinetools/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

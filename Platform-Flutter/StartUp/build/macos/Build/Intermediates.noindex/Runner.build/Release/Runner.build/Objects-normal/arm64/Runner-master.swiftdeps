@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "fd90748f8cc957b573b1c52e2b58f5fc9de43d552717d057b5e1a64b44016abf"
+build_start_time: [1678130585, 144754886]
+build_end_time: [1678130590, 16281127]
+inputs:
+  ? "/Users/master/Library/Mobile Documents/com~apple~CloudDocs/Workspace/Training-Coding-Platform/Platform-Prototype/Flutter-001/macos/Flutter/GeneratedPluginRegistrant.swift"
+  : [1678130561, 600497007]
+  ? "/Users/master/Library/Mobile Documents/com~apple~CloudDocs/Workspace/Training-Coding-Platform/Platform-Prototype/Flutter-001/macos/Runner/AppDelegate.swift"
+  : [1677703615, 0]
+  ? "/Users/master/Library/Mobile Documents/com~apple~CloudDocs/Workspace/Training-Coding-Platform/Platform-Prototype/Flutter-001/macos/Runner/MainFlutterWindow.swift"
+  : [1677703615, 0]
